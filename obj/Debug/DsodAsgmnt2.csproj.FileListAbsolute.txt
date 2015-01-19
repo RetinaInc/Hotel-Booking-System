@@ -1,0 +1,6 @@
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\obj\Debug\DsodAsgmnt2.csprojResolveAssemblyReference.cache
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\MCS\CSE 598 - DSOD\Asgmnts\Asgmnt 2\DsodAsgmnt2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
